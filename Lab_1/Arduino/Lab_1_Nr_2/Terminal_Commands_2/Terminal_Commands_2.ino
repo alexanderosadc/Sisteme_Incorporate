@@ -29,6 +29,5 @@ void loop() {
   {
     lcd.print(key);
     lcd.display();
-    //lcd.scrollDisplayRight();
   }
 }
